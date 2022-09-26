@@ -8,5 +8,5 @@ The typical procedure to process raman spectrum would include:
 - Peak Fitting 
 
 ## Dependencies
-The script is based on `numpy`,`scipy`,`rampy`,`matplotlib`to do 
+The script is based on `numpy`,`scipy`,`rampy`,`matplotlib`,`lmfit` to do 
 data analysis and visualization.
