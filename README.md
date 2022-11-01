@@ -1,4 +1,4 @@
-# Automate raman-analyzer 
+# Automated raman-analyzer 
 The long-term goal of this script is to automate peak-fitting process of Raman Spectrum.\
 The typical procedure to process raman spectrum would include:
 - Import the data
